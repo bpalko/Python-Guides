@@ -1,2 +1,4 @@
 # Python-Guides
-Contains introduction notebooks to Python topics
+# Contains introduction notebooks to Python topics
+## Contact:
+- Brendan Palkowski bpalkowski@charter.net
